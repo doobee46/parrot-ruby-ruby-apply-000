@@ -4,6 +4,7 @@
 def parrot(arg = nil)
     phrase ="Squawk!"
     puts phrase
+    return phrase
 end
 
 
