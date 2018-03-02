@@ -3,11 +3,6 @@
 
 def parrot(arg = nil)
     phrase ="Squawk!"
-    if arg != nil 
-      puts arg
-    else 
-      return arg
-    end
     puts phrase
     return phrase
 end
