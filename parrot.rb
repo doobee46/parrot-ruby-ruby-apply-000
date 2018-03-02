@@ -4,7 +4,7 @@
 def parrot(arg)
     phrase= "Squawk!"
     if arg
-      puts "Squawk!"
+      puts phrase
     else
       return phrase
     end
