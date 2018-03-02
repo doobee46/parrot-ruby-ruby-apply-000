@@ -3,9 +3,8 @@
 
 def parrot(arg)
     phrase= "Squawk!"
+    puts phrase
     if arg
-      puts phrase
-    else
       return phrase
     end
 end
