@@ -1,10 +1,14 @@
 # Create method `parrot` that outputs a given phrase and
 # returns the phrase
 
-def parrot
+def parrot(arg)
     phrase ="Squawk!"
     puts phrase
-    return phrase 
+    return phrase
+    if arg.exist?
+      puts phrase
+    end
+      
 end
 
 
