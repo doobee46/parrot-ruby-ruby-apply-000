@@ -3,8 +3,6 @@
 
 def parrot(arg)
     puts "Squawk!"
-    phrase="Squawk!"
-    return phrase
 end
 
 
