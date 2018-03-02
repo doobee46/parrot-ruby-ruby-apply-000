@@ -6,7 +6,8 @@ def parrot(arg = nil)
     puts phrase
     return phrase
     if arg != nil
-      
+      puts phrase
+    end
 end
 
 
