@@ -8,7 +8,6 @@ def parrot(arg)
     if arg.exist?
       puts phrase
     end
-      
 end
 
 
