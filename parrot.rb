@@ -8,6 +8,7 @@ def parrot(arg = nil)
     else 
       return phrase
     end
+    puts phrase
 end
 
 
